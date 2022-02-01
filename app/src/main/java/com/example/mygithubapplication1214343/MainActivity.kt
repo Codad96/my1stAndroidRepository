@@ -10,3 +10,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 //Hello from Github
+//Hello from Github again. This line should creat a conflict
